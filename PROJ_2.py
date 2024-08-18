@@ -16,7 +16,7 @@ st.title('Flood Prediction Model')
 st.write("This application allows you to train models for flood prediction and visualize the results.")
 
 # Load the dataset from a permanent file path
-data = pd.read_csv('C:/Users/Yasir/CodeforLife/FloodPrediction.csv')  # Replace with the correct path
+data = pd.read_csv('FloodPrediction.csv')  # Replace with the correct path
 
 st.write("First few rows of the dataset:")
 st.write(data.head())
