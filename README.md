@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yasirbhtt28
-- 👀 I’m interested in Computer Aided Designs, Machine Learning, Deep Learning, Computer Vision, Biomechanics..........
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on ML and DL projects
-- 📫 How to reach me yasirbhtt2@gmail.com
+- 👀 I’m interested in Web Development, Machine Learning, Deep Learning, Computer Vision,Computer Aided Designs, Biomechanics..........
+- 🌱 I’m currently learning Web Development, ML and DL
+- 💞️ I’m looking to collaborate on Web Development, ML and DL projects
+- 📫 How to reach me h.yasir.bhatti@gmail.com or yasirbhtt2@gmail.com
 - ⚡ Fun fact: Materials Engineer stucked in Computer World! 
 
 <!---
